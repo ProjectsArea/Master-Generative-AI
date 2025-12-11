@@ -5,8 +5,202 @@
 
 Welcome to the **Master Generative AI in 30 Days** learning journey!
 This repository contains **30 structured, beginner-friendly yet industry-oriented notebooks**, each designed to help you understand, practice, and build real generative AI applications using modern tools and models.
-
 Whether you're a student, developer, researcher, or tech enthusiast, this course will give you the skills needed to **confidently work with AI**, build intelligent apps, and understand the foundations powering today’s smart systems.
+
+---
+
+# # 🌟 **Day-Wise Colab Notebooks**
+
+This page contains **all 30 Colab notebooks** for the **Master Generative AI in 30 Days** program.
+Each notebook includes **explanations, activities, assignments, examples, and mini-projects**, helping you learn AI step-by-step in a structured and practical way.
+
+---
+
+# ## 📚 **Day-Wise Notebook Index**
+
+### ### 📅 **Day 1 — AI is Not Future Technology, It Is Shaping the Future**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C8TZnW7u9QEppSPL7h0yeAvbmPbNNdLj?usp=sharing)
+
+---
+
+### ### 📅 **Day 2 — History & Evolution of Artificial Intelligence**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U6Z7xVGhDTNZMFACRl4rJwkKexjtafmO?usp=sharing)
+
+---
+
+### ### 📅 **Day 3 — Introduction to Machine Learning**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_3_COLAB_LINK_HERE)
+
+---
+
+### ### 📅 **Day 4 — Types of Machine Learning**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_4_COLAB_LINK_HERE)
+
+---
+
+### ### 📅 **Day 5 — Neural Networks Fundamentals**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_5_COLAB_LINK_HERE)
+
+---
+
+### ### 📅 **Day 6 — Deep Learning Basics**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_6_COLAB_LINK_HERE)
+
+---
+
+### ### 📅 **Day 7 — Understanding Backpropagation**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_7_COLAB_LINK_HERE)
+
+---
+
+### ### 📅 **Day 8 — Activation Functions & Optimization**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_8_COLAB_LINK_HERE)
+
+---
+
+### ### 📅 **Day 9 — Introduction to Computer Vision**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_9_COLAB_LINK_HERE)
+
+---
+
+### ### 📅 **Day 10 — CNNs Explained**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_10_COLAB_LINK_HERE)
+
+---
+
+### ### 📅 **Day 11 — RNNs, LSTMs & Sequence Models**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_11_COLAB_LINK_HERE)
+
+---
+
+### ### 📅 **Day 12 — Transformer Architecture**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_12_COLAB_LINK_HERE)
+
+---
+
+### ### 📅 **Day 13 — Attention Mechanism**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_13_COLAB_LINK_HERE)
+
+---
+
+### ### 📅 **Day 14 — Tokenization & Embeddings**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_14_COLAB_LINK_HERE)
+
+---
+
+### ### 📅 **Day 15 — Introduction to Generative AI**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_15_COLAB_LINK_HERE)
+
+---
+
+### ### 📅 **Day 16 — Large Language Models (LLMs)**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_16_COLAB_LINK_HERE)
+
+---
+
+### ### 📅 **Day 17 — Prompt Engineering Essentials**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_17_COLAB_LINK_HERE)
+
+---
+
+### ### 📅 **Day 18 — Image Generation (Diffusion Models)**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_18_COLAB_LINK_HERE)
+
+---
+
+### ### 📅 **Day 19 — HuggingFace Pipelines for GenAI**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_19_COLAB_LINK_HERE)
+
+---
+
+### ### 📅 **Day 20 — Building Simple AI Apps**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_20_COLAB_LINK_HERE)
+
+---
+
+### ### 📅 **Day 21 — RAG Systems Introduction**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_21_COLAB_LINK_HERE)
+
+---
+
+### ### 📅 **Day 22 — Vector Databases (FAISS, Chroma)**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_22_COLAB_LINK_HERE)
+
+---
+
+### ### 📅 **Day 23 — Full RAG Implementation**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_23_COLAB_LINK_HERE)
+
+---
+
+### ### 📅 **Day 24 — Fine-Tuning (LoRA / QLoRA)**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_24_COLAB_LINK_HERE)
+
+---
+
+### ### 📅 **Day 25 — Evaluating AI Models**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_25_COLAB_LINK_HERE)
+
+---
+
+### ### 📅 **Day 26 — Building AI Chatbots**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_26_COLAB_LINK_HERE)
+
+---
+
+### ### 📅 **Day 27 — GenAI APIs (OpenAI, Gemini, Claude, etc.)**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_27_COLAB_LINK_HERE)
+
+---
+
+### ### 📅 **Day 28 — Building End-to-End AI Applications**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_28_COLAB_LINK_HERE)
+
+---
+
+### ### 📅 **Day 29 — Final Project Development**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_29_COLAB_LINK_HERE)
+
+---
+
+### ### 📅 **Day 30 — Portfolio, GitHub & Deployment**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_30_COLAB_LINK_HERE)
+
+---
+
+# ## 🔗 **Want to Start From Day 1?**
+
+Click any badge to begin—everything runs in Google Colab, no installation required.
 
 ---
 
