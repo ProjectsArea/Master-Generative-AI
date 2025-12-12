@@ -26,13 +26,13 @@ Each notebook includes **explanations, activities, assignments, examples, and mi
 
 ### ### 📅 **Day 2 — History & Evolution of Artificial Intelligence**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U6Z7xVGhDTNZMFACRl4rJwkKexjtafmO?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EVlsnf1ShpB5rW7HKFRsdUKqFs35w5kY?usp=sharing)
 
 ---
 
 ### ### 📅 **Day 3 — Introduction to Machine Learning**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EVlsnf1ShpB5rW7HKFRsdUKqFs35w5kY?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR DAY 3)
 
 ---
 
