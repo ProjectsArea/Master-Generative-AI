@@ -40,7 +40,7 @@ Each notebook includes **explanations, activities, assignments, examples, and mi
 
 ### ### 📅 **Day 4 — Neural Networks 101**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_4_COLAB_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1f6FiIgNEyj91cD3WiXSIvlMnt1qPFySe?usp=sharing)
 
 ---
 
