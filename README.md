@@ -17,6 +17,8 @@ Each notebook includes **explanations, activities, assignments, examples, and mi
 ---
 
 # ## 📚 **Day-Wise Notebook Index**
+---
+# ## **STAGE - 1**
 
 ### ### 📅 **Day 1 — AI is Not Future Technology, It Is Shaping the Future**
 
@@ -30,169 +32,174 @@ Each notebook includes **explanations, activities, assignments, examples, and mi
 
 ---
 
-### ### 📅 **Day 3 — Introduction to Machine Learning**
+### ### 📅 **Day 3 — Understanding Machine Learning**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EVlsnf1ShpB5rW7HKFRsdUKqFs35w5kY?usp=sharing)
 
 ---
 
-### ### 📅 **Day 4 — Types of Machine Learning**
+### ### 📅 **Day 4 — Neural Networks 101**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_4_COLAB_LINK_HERE)
 
 ---
 
-### ### 📅 **Day 5 — Neural Networks Fundamentals**
+### ### 📅 **Day 5 — Deep Learning & Backpropagation**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_5_COLAB_LINK_HERE)
 
 ---
 
-### ### 📅 **Day 6 — Deep Learning Basics**
+### ### 📅 **Day 6 — *Introduction to Large Language Models (LLMs) *
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_6_COLAB_LINK_HERE)
 
 ---
 
-### ### 📅 **Day 7 — Understanding Backpropagation**
+### ### 📅 **Day 7 — Key Metrics for Model Evaluation & Environment Setup**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_7_COLAB_LINK_HERE)
 
 ---
 
-### ### 📅 **Day 8 — Activation Functions & Optimization**
+# ## **STAGE - 2**
+
+### ### 📅 **Day 8 — Tokenization & Embeddings**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_8_COLAB_LINK_HERE)
 
 ---
 
-### ### 📅 **Day 9 — Introduction to Computer Vision**
+### ### 📅 **Day 9 — Transformers & Attention Mechanism**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_9_COLAB_LINK_HERE)
 
 ---
 
-### ### 📅 **Day 10 — CNNs Explained**
+### ### 📅 **Day 10 — Pretrained Models (GPT, BERT, LLaMA, Claude)**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_10_COLAB_LINK_HERE)
 
 ---
 
-### ### 📅 **Day 11 — RNNs, LSTMs & Sequence Models**
+### ### 📅 **Day 11 — Fine-Tuning vs Prompt Engineering**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_11_COLAB_LINK_HERE)
 
 ---
 
-### ### 📅 **Day 12 — Transformer Architecture**
+### ### 📅 **Day 12 — Retrieval-Augmented Generation (RAG) Basics**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_12_COLAB_LINK_HERE)
 
 ---
 
-### ### 📅 **Day 13 — Attention Mechanism**
+### ### 📅 **Day 13 — Building Your First Chatbot with an LLM**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_13_COLAB_LINK_HERE)
 
 ---
 
-### ### 📅 **Day 14 — Tokenization & Embeddings**
+### ### 📅 **Day 14 — Evaluating LLM Outputs (Bias, Hallucinations, Accuracy)**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_14_COLAB_LINK_HERE)
 
 ---
+# ## **STAGE - 3**
 
-### ### 📅 **Day 15 — Introduction to Generative AI**
+### ### 📅 **Day 15 — Generative Adversarial Networks (GANs)**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_15_COLAB_LINK_HERE)
 
 ---
 
-### ### 📅 **Day 16 — Large Language Models (LLMs)**
+### ### 📅 **Day 16 — Diffusion Models (Stable Diffusion, DALL.E)**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_16_COLAB_LINK_HERE)
 
 ---
 
-### ### 📅 **Day 17 — Prompt Engineering Essentials**
+### ### 📅 **Day 17 — Image-to-Text & Text-to-Image Models**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_17_COLAB_LINK_HERE)
 
 ---
 
-### ### 📅 **Day 18 — Image Generation (Diffusion Models)**
+### ### 📅 **Day 18 — Speech Generation & Voice Cloning (TTS, STT)**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_18_COLAB_LINK_HERE)
 
 ---
 
-### ### 📅 **Day 19 — HuggingFace Pipelines for GenAI**
+### ### 📅 **Day 19 — Multimodal Models (Text + Image + Audio)**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_19_COLAB_LINK_HERE)
 
 ---
 
-### ### 📅 **Day 20 — Building Simple AI Apps**
+### ### 📅 **Day 20 — Safety & Ethics in Generative AI**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_20_COLAB_LINK_HERE)
 
 ---
 
-### ### 📅 **Day 21 — RAG Systems Introduction**
+### ### 📅 **Day 21 — Bias Mitigation & Responsible AI Practices**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_21_COLAB_LINK_HERE)
 
 ---
+# ## **STAGE - 4**
 
-### ### 📅 **Day 22 — Vector Databases (FAISS, Chroma)**
+### ### 📅 **Day 22 — Generative AI for Code (GitHub, Copilot, Code Llama)**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_22_COLAB_LINK_HERE)
 
 ---
 
-### ### 📅 **Day 23 — Full RAG Implementation**
+### ### 📅 **Day 23 — Generative AI for Business (Summarization, Automation)**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_23_COLAB_LINK_HERE)
 
 ---
 
-### ### 📅 **Day 24 — Fine-Tuning (LoRA / QLoRA)**
+### ### 📅 **Day 24 — Generative AI for Education & Research**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_24_COLAB_LINK_HERE)
 
 ---
 
-### ### 📅 **Day 25 — Evaluating AI Models**
+### ### 📅 **Day 25 — Generative AI in Healthcare (Drug Discovery, Diagnostics)**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_25_COLAB_LINK_HERE)
 
 ---
 
-### ### 📅 **Day 26 — Building AI Chatbots**
+### ### 📅 **Day 26 — Generative AI in Marketing (Content & Ads)**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_26_COLAB_LINK_HERE)
 
 ---
 
-### ### 📅 **Day 27 — GenAI APIs (OpenAI, Gemini, Claude, etc.)**
+### ### 📅 **Day 27 — Building an AI Agent with Tool-Calling & APIs**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_27_COLAB_LINK_HERE)
 
 ---
 
-### ### 📅 **Day 28 — Building End-to-End AI Applications**
+### ### 📅 **Day 28 — Deploying AI Models on Cloud (AWS, GCP, Azure)**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_28_COLAB_LINK_HERE)
 
 ---
+# ## **STAGE - 5**
 
-### ### 📅 **Day 29 — Final Project Development**
+### ### 📅 **Day 29 — Capstone Project (AI Chatbot, AI Content & Art Generator)**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_29_COLAB_LINK_HERE)
 
 ---
 
-### ### 📅 **Day 30 — Portfolio, GitHub & Deployment**
+### ### 📅 **Day 30 — Preparing for Generative AI Interviews & Career Path**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_30_COLAB_LINK_HERE)
 
