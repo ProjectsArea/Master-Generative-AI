@@ -32,7 +32,7 @@ Each notebook includes **explanations, activities, assignments, examples, and mi
 
 ### ### 📅 **Day 3 — Introduction to Machine Learning**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_3_COLAB_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EVlsnf1ShpB5rW7HKFRsdUKqFs35w5kY?usp=sharing)
 
 ---
 
