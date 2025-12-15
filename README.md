@@ -46,7 +46,7 @@ Each notebook includes **explanations, activities, assignments, examples, and mi
 
 ### ### 📅 **Day 5 — Deep Learning & Backpropagation**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_5_COLAB_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Cu3zwhd4KIbOBRDYtj2Dcxvc0YG7Elbv?usp=sharing)
 
 ---
 
