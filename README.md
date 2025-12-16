@@ -52,7 +52,7 @@ Each notebook includes **explanations, activities, assignments, examples, and mi
 
 ### ### 📅 **Day 6 — *Introduction to Large Language Models (LLMs) *
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_DAY_6_COLAB_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sjUE6RLZYtlsRHKsnqXiwjGQWKSBl8PF?usp=sharing)
 
 ---
 
